@@ -1,0 +1,22 @@
+<div id="wb_фон-основа" style="position:absolute;left:9px;top:714px;width:1920px;height:1490px;z-index:13;">
+<img src="images/vgqftd2khh.jpg" id="фон-основа" alt=""></div>
+
+
+
+
+#фон-основа
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+
+
+<strong class="PCB" 
+		   
+		   style="position:absolute;left:10px;top:229px;width:1920px;height:256px;text-align:center;z-index:14;">«PC Building»<br>Вы сделали правильный выбор
+   </strong>
